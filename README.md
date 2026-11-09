@@ -209,4 +209,4 @@ Panda Anti-Rootkit is available as a complete free version, providing full acces
 Download Panda Anti-Rootkit today and protect your computer from hidden threats!
 
 ---
-**Last updated:** 2026-11-09 08:59:47 UTC
+**Last updated:** 2026-11-09 19:43:01 UTC
